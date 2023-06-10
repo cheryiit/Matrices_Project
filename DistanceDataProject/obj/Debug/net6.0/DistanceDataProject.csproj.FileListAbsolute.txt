@@ -1,0 +1,15 @@
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\DistanceDataProject.csproj.AssemblyReference.cache
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\DistanceDataProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\DistanceDataProject.AssemblyInfoInputs.cache
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\DistanceDataProject.AssemblyInfo.cs
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\DistanceDataProject.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\bin\Debug\net6.0\DistanceDataProject.exe
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\bin\Debug\net6.0\DistanceDataProject.deps.json
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\bin\Debug\net6.0\DistanceDataProject.runtimeconfig.json
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\bin\Debug\net6.0\DistanceDataProject.dll
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\bin\Debug\net6.0\DistanceDataProject.pdb
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\DistanceDataProject.dll
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\refint\DistanceDataProject.dll
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\DistanceDataProject.pdb
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\DistanceDataProject.genruntimeconfig.cache
+C:\Users\Yiğit\source\repos\DistanceDataProject\DistanceDataProject\obj\Debug\net6.0\ref\DistanceDataProject.dll
